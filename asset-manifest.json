@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/countrywiki/static/css/main.f200e1bd.chunk.css",
+    "main.js": "/countrywiki/static/js/main.26586a38.chunk.js",
+    "main.js.map": "/countrywiki/static/js/main.26586a38.chunk.js.map",
+    "runtime-main.js": "/countrywiki/static/js/runtime-main.61bdab06.js",
+    "runtime-main.js.map": "/countrywiki/static/js/runtime-main.61bdab06.js.map",
+    "static/css/2.0501a8b0.chunk.css": "/countrywiki/static/css/2.0501a8b0.chunk.css",
+    "static/js/2.c86b4fa4.chunk.js": "/countrywiki/static/js/2.c86b4fa4.chunk.js",
+    "static/js/2.c86b4fa4.chunk.js.map": "/countrywiki/static/js/2.c86b4fa4.chunk.js.map",
+    "index.html": "/countrywiki/index.html",
+    "precache-manifest.411fbf7f425b58bd5405aa0b4fa4e8c9.js": "/countrywiki/precache-manifest.411fbf7f425b58bd5405aa0b4fa4e8c9.js",
+    "service-worker.js": "/countrywiki/service-worker.js",
+    "static/css/2.0501a8b0.chunk.css.map": "/countrywiki/static/css/2.0501a8b0.chunk.css.map",
+    "static/css/main.f200e1bd.chunk.css.map": "/countrywiki/static/css/main.f200e1bd.chunk.css.map",
+    "static/media/logo.png": "/countrywiki/static/media/logo.ebad1aad.png"
+  }
+}
